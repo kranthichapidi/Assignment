@@ -1,0 +1,32 @@
+C:\Users\KRANTHI\documents\visual studio 2015\Projects\TimeAndMotionFinalAssignment\TimeAndMotionFinalAssignment\bin\Debug\TimeAndMotionFinalAssignment.exe.config
+C:\Users\KRANTHI\documents\visual studio 2015\Projects\TimeAndMotionFinalAssignment\TimeAndMotionFinalAssignment\bin\Debug\TimeAndMotionFinalAssignment.exe
+C:\Users\KRANTHI\documents\visual studio 2015\Projects\TimeAndMotionFinalAssignment\TimeAndMotionFinalAssignment\bin\Debug\TimeAndMotionFinalAssignment.pdb
+C:\Users\KRANTHI\documents\visual studio 2015\Projects\TimeAndMotionFinalAssignment\TimeAndMotionFinalAssignment\obj\Debug\MainWindow.g.cs
+C:\Users\KRANTHI\documents\visual studio 2015\Projects\TimeAndMotionFinalAssignment\TimeAndMotionFinalAssignment\obj\Debug\App.g.cs
+C:\Users\KRANTHI\documents\visual studio 2015\Projects\TimeAndMotionFinalAssignment\TimeAndMotionFinalAssignment\obj\Debug\TimeAndMotionFinalAssignment_MarkupCompile.cache
+C:\Users\KRANTHI\documents\visual studio 2015\Projects\TimeAndMotionFinalAssignment\TimeAndMotionFinalAssignment\obj\Debug\TimeAndMotionFinalAssignment_MarkupCompile.lref
+C:\Users\KRANTHI\documents\visual studio 2015\Projects\TimeAndMotionFinalAssignment\TimeAndMotionFinalAssignment\obj\Debug\App.baml
+C:\Users\KRANTHI\documents\visual studio 2015\Projects\TimeAndMotionFinalAssignment\TimeAndMotionFinalAssignment\obj\Debug\MainWindow.baml
+C:\Users\KRANTHI\documents\visual studio 2015\Projects\TimeAndMotionFinalAssignment\TimeAndMotionFinalAssignment\obj\Debug\Resources\AppTheme.baml
+C:\Users\KRANTHI\documents\visual studio 2015\Projects\TimeAndMotionFinalAssignment\TimeAndMotionFinalAssignment\obj\Debug\TimeAndMotionFinalAssignment.g.resources
+C:\Users\KRANTHI\documents\visual studio 2015\Projects\TimeAndMotionFinalAssignment\TimeAndMotionFinalAssignment\obj\Debug\TimeAndMotionFinalAssignment.Properties.Resources.resources
+C:\Users\KRANTHI\documents\visual studio 2015\Projects\TimeAndMotionFinalAssignment\TimeAndMotionFinalAssignment\obj\Debug\TimeAndMotionFinalAssignment.csproj.GenerateResource.Cache
+C:\Users\KRANTHI\documents\visual studio 2015\Projects\TimeAndMotionFinalAssignment\TimeAndMotionFinalAssignment\obj\Debug\TimeAndMotionFinalAssignment.exe
+C:\Users\KRANTHI\documents\visual studio 2015\Projects\TimeAndMotionFinalAssignment\TimeAndMotionFinalAssignment\obj\Debug\TimeAndMotionFinalAssignment.pdb
+C:\Users\KRANTHI\documents\visual studio 2015\Projects\TimeAndMotionFinalAssignment\TimeAndMotionFinalAssignment\obj\Debug\TimeAndMotionFinalAssignment.csprojResolveAssemblyReference.cache
+C:\Users\kchapidi3723\Downloads\TimeAndMotionFinalAssignment\TimeAndMotionFinalAssignment\bin\Debug\TimeAndMotionFinalAssignment.exe.config
+C:\Users\kchapidi3723\Downloads\TimeAndMotionFinalAssignment\TimeAndMotionFinalAssignment\bin\Debug\TimeAndMotionFinalAssignment.exe
+C:\Users\kchapidi3723\Downloads\TimeAndMotionFinalAssignment\TimeAndMotionFinalAssignment\bin\Debug\TimeAndMotionFinalAssignment.pdb
+C:\Users\kchapidi3723\Downloads\TimeAndMotionFinalAssignment\TimeAndMotionFinalAssignment\obj\Debug\TimeAndMotionFinalAssignment.csprojResolveAssemblyReference.cache
+C:\Users\kchapidi3723\Downloads\TimeAndMotionFinalAssignment\TimeAndMotionFinalAssignment\obj\Debug\MainWindow.g.cs
+C:\Users\kchapidi3723\Downloads\TimeAndMotionFinalAssignment\TimeAndMotionFinalAssignment\obj\Debug\App.g.cs
+C:\Users\kchapidi3723\Downloads\TimeAndMotionFinalAssignment\TimeAndMotionFinalAssignment\obj\Debug\TimeAndMotionFinalAssignment_MarkupCompile.cache
+C:\Users\kchapidi3723\Downloads\TimeAndMotionFinalAssignment\TimeAndMotionFinalAssignment\obj\Debug\TimeAndMotionFinalAssignment_MarkupCompile.lref
+C:\Users\kchapidi3723\Downloads\TimeAndMotionFinalAssignment\TimeAndMotionFinalAssignment\obj\Debug\App.baml
+C:\Users\kchapidi3723\Downloads\TimeAndMotionFinalAssignment\TimeAndMotionFinalAssignment\obj\Debug\MainWindow.baml
+C:\Users\kchapidi3723\Downloads\TimeAndMotionFinalAssignment\TimeAndMotionFinalAssignment\obj\Debug\Resources\AppTheme.baml
+C:\Users\kchapidi3723\Downloads\TimeAndMotionFinalAssignment\TimeAndMotionFinalAssignment\obj\Debug\TimeAndMotionFinalAssignment.g.resources
+C:\Users\kchapidi3723\Downloads\TimeAndMotionFinalAssignment\TimeAndMotionFinalAssignment\obj\Debug\TimeAndMotionFinalAssignment.Properties.Resources.resources
+C:\Users\kchapidi3723\Downloads\TimeAndMotionFinalAssignment\TimeAndMotionFinalAssignment\obj\Debug\TimeAndMotionFinalAssignment.csproj.GenerateResource.Cache
+C:\Users\kchapidi3723\Downloads\TimeAndMotionFinalAssignment\TimeAndMotionFinalAssignment\obj\Debug\TimeAndMotionFinalAssignment.exe
+C:\Users\kchapidi3723\Downloads\TimeAndMotionFinalAssignment\TimeAndMotionFinalAssignment\obj\Debug\TimeAndMotionFinalAssignment.pdb

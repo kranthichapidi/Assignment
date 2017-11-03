@@ -1,0 +1,26 @@
+﻿<Window x:Class="TimeAndMotionFinalAssignment.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TimeAndMotionFinalAssignment"
+        mc:Ignorable="d" Style="{Binding appWindowStyle}">
+    <Window.Background>
+        <ImageBrush Stretch="UniformToFill" ImageSource="Resources/Images/rolling_ball_clock.jpg" />
+    </Window.Background>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <TextBox Name="txtInput" Text="{Binding Input,UpdateSourceTrigger=PropertyChanged}" Style="{StaticResource apptxtStyle}"/>
+        <Label Name="lblOutput" Content="{Binding Output}" Style="{StaticResource applblStyle}"/>
+    </Grid>
+</Window>
